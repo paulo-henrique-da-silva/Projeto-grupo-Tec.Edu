@@ -1,4 +1,2 @@
 # Projeto-grupo-Tec.Edu
-ALUNOS: Paulo Henrique
-        Luis Eduardo
-       
+ALUNOS: Paulo Henrique e Luis Eduardo
